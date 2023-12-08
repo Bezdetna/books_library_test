@@ -1,0 +1,76 @@
+{
+  "posts": [
+    {
+      "name": "1984",
+      "author": "Orwell George",
+      "category": "Poetry",
+      "isbn": "20394848",
+      "createdAt": "23 October 2023, 9:01PM",
+      "modifiedEditedAt": "23 October 2023, 9:54PM",
+      "id": 26
+    },
+    {
+      "name": "Alice in Wonderland",
+      "author": "Lewis Carroll",
+      "category": "Fiction",
+      "isbn": "20394848",
+      "createdAt": "31 October 2023, 8:14PM",
+      "modifiedEditedAt": "31 October 2023, 8:23PM",
+      "id": 34
+    },
+    {
+      "name": "1984",
+      "author": "Orwell George",
+      "category": "Fiction",
+      "isbn": "20394848",
+      "createdAt": "2 November 2023, 4:03PM",
+      "modifiedEditedAt": "2 November 2023, 4:03PM",
+      "id": 38
+    },
+    {
+      "name": "1984",
+      "author": "Orwell George",
+      "category": "Fiction",
+      "isbn": "20394848",
+      "createdAt": "6 November 2023, 5:19PM",
+      "modifiedEditedAt": "6 November 2023, 5:19PM",
+      "id": 39
+    },
+    {
+      "name": "1984",
+      "author": "Orwell George",
+      "category": "Poetry",
+      "isbn": "20394848",
+      "createdAt": "6 November 2023, 5:29PM",
+      "modifiedEditedAt": "6 November 2023, 5:29PM",
+      "id": 40
+    },
+    {
+      "name": "1984",
+      "author": "Orwell George",
+      "category": "Fiction",
+      "isbn": "20394848",
+      "createdAt": "6 November 2023, 5:44PM",
+      "modifiedEditedAt": "6 November 2023, 5:44PM",
+      "id": 41
+    },
+    {
+      "name": "Alice in Wonderland",
+      "author": "Lewis Carroll",
+      "category": "Romance",
+      "isbn": "20394848",
+      "createdAt": "6 November 2023, 6:09PM",
+      "modifiedEditedAt": "6 November 2023, 6:09PM",
+      "id": 42
+    },
+    {
+      "name": "1984",
+      "author": "Orwell George",
+      "category": "Romance",
+      "isbn": "20394848",
+      "createdAt": "6 November 2023, 6:10PM",
+      "modifiedEditedAt": "6 November 2023, 6:10PM",
+      "id": 43
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+body{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color: rgba(156, 203, 189, 0.434);
+
+}
+.container{
+    display: flex;
+    flex-direction: column;
+    background-color: rgba(156, 203, 189, 0.897);
+    margin: 30px 20px;
+    padding: 30px 30px;
+    gap: 30px;
+} 
+.buttonBox{
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+    align-items: center;
+    justify-content: center;
+}
+label{
+    font-size: larger;
+}
+.form-for-book{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+th{
+    text-align: center;
+    gap: 30px;
+}
